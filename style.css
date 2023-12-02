@@ -1,0 +1,38 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  padding-top: 4cm;
+  background-color: #ced4da;
+  padding-bottom: 6cm;
+}
+.jumbotron h1 {
+  font-weight: bold;
+}
+#about .container .row h2 {
+  padding: 1rem 1rem;
+  padding-top: 2cm;
+}
+#about .container .row img {
+  width: 150px;
+  padding: 5px 5px;
+}
+#about .container .row p {
+  padding: 1rem 1rem;
+  padding-top: 2cm;
+}
+#about {
+  padding-bottom: 6cm;
+}
+#gallery {
+  padding-bottom: 4cm;
+}
+#gallery .container .row h2 {
+  padding: 1rem 1rem;
+  padding-top: 2cm;
+}
+#contact {
+  padding-bottom: 4.5cm;
+}
+#contact .container .row h2 {
+  padding-top: 5cm;
+  padding-bottom: 1cm;
+}
